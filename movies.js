@@ -5,7 +5,7 @@ const movies = [
     "movie_year": 2017,
     "Categories": "Uncategorized",
     "summary": "Patton Oswald, despite a personal tragedy, produces his best standup yet. Focusing on the tribulations of the Trump era and life after the loss of a loved one, Patton Oswald continues his journey to contribute joy to the world.",
-    "ImageURL": "https://hydramovies.com/wp-content/uploads/2018/04/Patton-Oswalt-Annihilation-Movie-Poster.jpg",
+    "ImageURL": "https://www.theringer.com/_next/image?url=https%3A%2F%2Fwp.theringer.com%2Fwp-content%2Fuploads%2F2017%2F10%2FPOCS_Unit_00088_R-scaled.jpg&w=3840&q=75&dpl=36e1450c8a410817cd7405f624f11e56b9c206fc",
     "imdb_id": "tt7026230",
     "imdb_rating": 7.4,
     "runtime": 66,
